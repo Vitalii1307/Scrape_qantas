@@ -1,0 +1,1 @@
+This application uses the Requests library and regular expressions to extract hotel rate information from a web page. It saves this data to a CSV file to ensure easy accessibility and analysis. Directly extracting from HTML allows you to get the information you need quickly and efficiently.
